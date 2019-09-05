@@ -10,8 +10,7 @@ body {
 }
 
 article { 
-  color: coral;
-  width: 20px:
+  color: red;
 }
 
 p {
@@ -21,10 +20,17 @@ p {
 }
 
 main {
-  background-color: darkgrey
+  background-color: darkgrey;
+  border: 5px solid;
 }
 
 #h2 {
+  color: black;
   border-left: 30%;
   width: 20px;
 }
+
+nav {
+  background-color: aqua;
+}
+
