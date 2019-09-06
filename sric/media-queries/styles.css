@@ -1,0 +1,20 @@
+.main-container {  
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  border: 2px solid;
+}
+
+img {
+  height: 100px;
+  width: 100%;
+}
+
+.item {
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  border: 2px solid;
+  }
+
+  
