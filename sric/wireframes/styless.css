@@ -1,0 +1,33 @@
+header {
+  padding: 10px;
+  background-color: red;
+  border: 10px solid;
+}
+img {
+  padding: 10px;
+  background-color: black;
+  border: 10px solid;
+}
+h2 {
+  padding: 5px;
+  background-color:red;
+  border: 20px solid;
+}
+li {
+  padding: 5px;
+  background-color: red;
+  border: 20px solid;
+}
+p {
+  padding: 5px;
+  background-color: red;
+  border: 20px solid;
+}
+footer {
+  padding: 5px;
+  background-color: red;
+  border: 20px solid;
+}
+body{
+  background-color: grey;
+}
