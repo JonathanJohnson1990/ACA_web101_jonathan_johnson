@@ -3,7 +3,7 @@ box-sizing: border-box;
 }
 
 body {
-  background-color: white;
+  background-color: pink;
   padding: 0%;
   margin: 0%;
   font-family: 'Mansalva', cursive
@@ -52,5 +52,5 @@ h2 {
 
  ul {
    display: inline-block;
-   
+
  }
