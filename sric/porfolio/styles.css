@@ -3,5 +3,17 @@
 }
 
 body {
-  background-color: whitesmoke;
-} 
+  background-color: #4e4848;
+  background-image: url("./image/Portfolio\ background.jpg") 
+}
+
+
+.main-container {
+  height: auto;
+  width: 100px;
+  background-color: aliceblue;
+}
+
+.box {
+  display: inline-block;
+}
